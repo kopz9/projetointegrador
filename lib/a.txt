@@ -1,6 +1,0 @@
-  await Firebase.initializeApp(
-    options: const FirebaseOptions(
-          apiKey: 'AIzaSyBEtdj1hc3HOETPLGSjLJSt3oOt1M2ArNc',
-          appId: 'com.example.swww',
-          messagingSenderId: 'messagingSenderId',
-          projectId: 'semfila-be94f'));

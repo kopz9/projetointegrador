@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143558337597",
+    "project_id": "semfila-c26c0",
+    "storage_bucket": "semfila-c26c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143558337597:android:1585048aa5196d3187b654",
+        "android_client_info": {
+          "package_name": "com.example.swww"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143558337597-ticu55qqt808l83bt5d1qthts8k7nm7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sww",
+            "certificate_hash": "9b8f7228740052f8a87fc949848abe74271f5437"
+          }
+        },
+        {
+          "client_id": "143558337597-imp7bs35b79nf100ds54jvb38j7ahjbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6aEWFEIKCfEiSmw5x3nKgJrfrbqNoYyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143558337597-imp7bs35b79nf100ds54jvb38j7ahjbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
